@@ -1,5 +1,5 @@
 <template>
-  <div class="rank">rank</div>
+  <div class="rank">rankvue</div>
 </template>
 
 <script>

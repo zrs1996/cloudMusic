@@ -14,9 +14,12 @@
   },
   "dependencies": {
     "vue": "^2.5.2",
-    "vue-router": "^3.0.1"
+    "vue-router": "^3.0.1",
+    "better-scroll": "^1.15.2"
   },
   "devDependencies": {
+    "vue-awesome-swiper": "^2.5.4",
+    "axios": "latest",
     "autoprefixer": "^7.1.2",
     "babel-core": "^6.22.1",
     "babel-helper-vue-jsx-merge-props": "^2.0.3",
